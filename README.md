@@ -1,3 +1,3 @@
-# pokedex-projeto
+# pokedex-projeto, feito na semana dev-week
 
 <p>Projeto que foi feito durante a mapadevweek do canal <a href="https://www.youtube.com/c/DevemDobro">Dev em Dobro</a></p>
