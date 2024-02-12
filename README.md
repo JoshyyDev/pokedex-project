@@ -1,3 +1,3 @@
-# pokedex-projeto
+# pokedex-project
 
-<p>Projeto que foi feito durante a mapadevweek do canal <a href="https://www.youtube.com/c/DevemDobro">Dev em Dobro</a></p>
+<p>Project that was made during the channel's mapdevweek: <a href="https://www.youtube.com/c/DevemDobro">Dev em Dobro</a></p>
